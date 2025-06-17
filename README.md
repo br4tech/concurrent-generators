@@ -69,6 +69,9 @@ Essa estrutura permite trocar facilmente um adaptador por outro (por exemplo, su
 1.  **Clone o repositório:**
     ```bash
     git clone [https://github.com/br4tech/concurrent-generators.git](https://github.com/br4tech/concurrent-generators.git)
+    ```
+    
+    ```bash
     cd concurrent-generators
     ```
 
